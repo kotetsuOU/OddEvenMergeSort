@@ -123,10 +123,5 @@ namespace MySortLib
                 Console.WriteLine($"{data[i][0]}");
             }
         }
-
-        /*public static void ParallelPrefix(float[][] inputs)
-        {
-
-        }*/
     }
 }
